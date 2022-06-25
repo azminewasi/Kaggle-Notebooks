@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="✅ 07 Cross Validation Methods ➡️ Tutorial 📊"
-to_this="➡️ Tutorial ✅ 07 Cross Validation Methods 📊"
+from_this="Divorce Prediction & Analysis 📊 PCA,SHAP,TSNE,RFE\t"
+to_this="Divorce Prediction & Analysis 📊 PCA,SHAP,TSNE,RFE"
 
 
 
@@ -22,6 +22,8 @@ for dirname, _, filenames in os.walk('./data/'):
 
 for link in links:
     temp_df=pd.read_csv(link)
+    print("Changing in ",link[25:35])
     temp_df=temp_df.replace(to_replace=from_this, value=to_this)
     temp_df.to_csv(link,index=False)
-    
+
+print("\n++++++++++++++++++++++++++++++\n            Done\n++++++++++++++++++++++++++++++\n")
