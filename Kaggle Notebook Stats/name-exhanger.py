@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="Divorce Prediction & Analysis 📊 PCA,SHAP,TSNE,RFE\t"
-to_this="Divorce Prediction & Analysis 📊 PCA,SHAP,TSNE,RFE"
+from_this="➡️ Tutorial ✅ 07 Cross Validation Methods 📊"
+to_this="➡️ Intro to Cross Validation ✅ Different Methods"
 
 
 
