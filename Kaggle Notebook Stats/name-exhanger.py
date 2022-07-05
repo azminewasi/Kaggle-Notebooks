@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="➡️ Tutorial ✅ 07 Cross Validation Methods 📊"
-to_this="➡️ Intro to Cross Validation ✅ Different Methods"
+from_this="📋 Bias-Variance Tradeoff ➡️ with NumPy & Seaborn"
+to_this="➡️ Intro to Bias-Variance Tradeoff 📋 with Numpy"
 
 
 
