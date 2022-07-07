@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="📋 Bias-Variance Tradeoff ➡️ with NumPy & Seaborn"
-to_this="➡️ Intro to Bias-Variance Tradeoff 📋 with Numpy"
+from_this="Divorce Prediction & Analysis 📊 PCA,SHAP,TSNE,RFE"
+to_this="Divorce : How & Why? 📊 With PCA,SHAP,TSNE,RFE"
 
 
 
