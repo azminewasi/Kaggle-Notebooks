@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="Divorce Prediction & Analysis 📊 PCA,SHAP,TSNE,RFE"
-to_this="Divorce : How & Why? 📊 With PCA,SHAP,TSNE,RFE"
+from_this="Divorce : How & Why? 📊 With PCA,SHAP,TSNE,RFE"
+to_this="Divorce Reasons Analysis 📊 With PCA,SHAP,TSNE,RFE"
 
 
 
