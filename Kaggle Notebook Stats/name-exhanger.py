@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="➡️ Intro to Bias-Variance Tradeoff 📋 with Numpy"
-to_this="➡️ Bias-Variance Tradeoff 📋 Theory & Code Ex."
+from_this="Clustering : Different Techniques, Algorithms"
+to_this="Different Clustering Techniques & Algorithms"
 
 
 
