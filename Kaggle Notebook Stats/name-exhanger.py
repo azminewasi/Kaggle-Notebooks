@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="▶️ Cristiano Ronaldo 📊 Extended EDA ⚽ Goals "
-to_this="▶️ Cristiano Ronaldo ⚽ Goals  📊 EDA, Analysis"
+from_this="Different Clustering Techniques & Algorithms"
+to_this="Clustering Techniques & Algorithms Analysis"
 
 
 
