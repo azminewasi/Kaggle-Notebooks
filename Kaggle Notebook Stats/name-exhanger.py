@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this=" 📘 Coursera 📉 EDA, FE 📈 Analysis + Insights 📊"
-to_this="Coursera 📉 EDA, Insights, Sentiment Analysis"
+from_this="➡️ Intro to Cross Validation ✅ Different Methods"
+to_this="ML Foundation ➡️ Cross Validation ✅ All Methods"
 
 
 
