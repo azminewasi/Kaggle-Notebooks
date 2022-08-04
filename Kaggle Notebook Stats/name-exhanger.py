@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="➡️ Intro to Cross Validation ✅ Different Methods"
-to_this="ML Foundation ➡️ Cross Validation ✅ All Methods"
+from_this="Intro to Classification ➡️ Different Algorithms"
+to_this="Classification ➡️ Comparing Different Algorithms"
 
 
 
