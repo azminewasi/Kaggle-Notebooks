@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="Intro to Classification ➡️ Different Algorithms"
-to_this="Classification ➡️ Comparing Different Algorithms"
+from_this="Investment and Financial Analysis  🏭 GeoExports"
+to_this="Investment and Financial Analysis 🏭 EPZ"
 
 
 
