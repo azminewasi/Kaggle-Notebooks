@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="Investment and Financial Analysis  🏭 GeoExports"
-to_this="Investment and Financial Analysis 🏭 EPZ"
+from_this="Investment and Financial Analysis 🏭 EPZ"
+to_this="Investment and Financial Analysis  🏭 EPZ"
 
 
 
