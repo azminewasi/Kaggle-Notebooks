@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="Investment and Financial Analysis 🏭 EPZ"
-to_this="Investment and Financial Analysis  🏭 EPZ"
+from_this="Coursera 📉 EDA, Review Sentiment Analysis"
+to_this="Coursera 📉 EDA, Reviews Sentiment Analysis"
 
 
 
