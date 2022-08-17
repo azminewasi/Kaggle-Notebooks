@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="Coursera 📉 EDA, Review Sentiment Analysis"
-to_this="Coursera 📉 EDA, Reviews Sentiment Analysis"
+from_this="ML Foundation ➡️ Bias-Variance Tradeoff "
+to_this="Mastering Bias-Variance Tradeoff "
 
 
 
