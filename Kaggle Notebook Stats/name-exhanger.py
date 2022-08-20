@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="ML Foundation ➡️ Bias-Variance Tradeoff "
-to_this="Mastering Bias-Variance Tradeoff "
+from_this="Advanced EDA Stacking and Ensembling - House Price"
+to_this="Advanced Stacking and Ensembling - House Price"
 
 
 
