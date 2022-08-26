@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import warnings
 
 
-from_this="Advanced EDA Stacking and Ensembling - House Price"
-to_this="Advanced Stacking and Ensembling - House Price"
+from_this="Advanced Stacking and Ensembling - House Price"
+to_this="House Price Prediction with Stacking & Ensembling"
 
 
 
